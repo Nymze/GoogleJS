@@ -7,4 +7,4 @@ function showDiv() {
 }
 
 setTimeout(function() {
-alert()} , 10000);
+alert('hey le site XXXvidsXXX est trop bien viens dessus stp Please')} , 10000);
